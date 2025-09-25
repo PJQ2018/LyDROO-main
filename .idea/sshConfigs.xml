@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.32.250" id="6daea9cd-15bb-4fdc-9ea3-8b52d4230545" port="22" customName="ubuntu" nameFormat="CUSTOM" username="user" />
+    </configs>
+  </component>
+</project>
